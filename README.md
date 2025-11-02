@@ -1,4 +1,4 @@
-**Data Analyst**
+**Data Scientist/ ML/AI Engineer**
 ---
 
 ## Technical Skills
