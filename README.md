@@ -45,10 +45,10 @@ _University of Colombo, Sri Lanka_
  
 ---
 
-### Coffee Sales Dashboard Development    
-[Source Code](https://github.com/mimadushanka/CoffeOrdersDataExcel/tree/main)
+### Bangalore House Price Prediction Web App    
+[Source Code](https://github.com/mimadushanka/Bangalore_House_Price_Prediction_Flask)
 
-**Excel | Pivot Tables | Data Modeling | XLOOKUP | Dashboard**  
+**Python | ML | Git | AWS | EC2 | Flask**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
 ![coffeedashboard](assets/img/exceldashboard.gif "Coffee Sales Dashboard")
@@ -56,12 +56,11 @@ _University of Colombo, Sri Lanka_
 
 ---
 
-### Data Visualization Case Study 
-[Source Code](https://github.com/mimadushanka/Interactive-Data-Visualization-Case-Study-for-a-Hypothetical-Vacation-Management-Company)
+### Breast Cancer Detection Using CNN and Transfer Learning
+[Source Code](#)
 
-**Python | Jupyter | Matplotlib | Seaborn | Data Storytelling**  
-- Consolidated multi-sheet Excel datasets into a single analytics workflow.  
-- Built dashboards to deliver actionable business insights and KPIs.  
+**#**  
+
  
 ---
 
