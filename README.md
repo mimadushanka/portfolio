@@ -3,13 +3,14 @@
 
 ## Technical Skills
 
+
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Analytics** | SQL, Excel (VLOOKUP, Pivot Tables), Data Cleaning / ETL |
-| **Visualization** | Tableau (Dashboards, Storytelling), R Studio, Matplotlib, Seaborn |
-| **Data Platforms** | Snowflake, MySQL, Oracle, Hadoop |
-| **Python** | Pandas, NumPy, scikit-learn, Jupyter |
-| **Cloud / DevOps** | AWS, Git, VS Code, Docker, Kubernetes |
+| **ML \& AI** | Keras, TensorFlow, Scikit-learn, PyTorch, Transformers, LLMs,  Tokenizers , Prompt Engineering|
+  | **Languages** | Python, R, SQL, JavaScript, HTML/CSS, Java|
+   | **Data Systems** | Snowflake,Hadoop,Spark,Data-bricks, MySQL, Oracle|
+    | **Visualization** | Tableau, Pandas, Matplotlib, Seaborn|
+   | **Cloud/Dev** | VS Code, Django, Jupyter, R Studio, AWS, Git, Docker, Kubernetes|
 
 ---
 
@@ -85,17 +86,18 @@ _Aug 2017 – Mar 2018 | Colombo, Sri Lanka_
 
 ## Certifications
 
+- **Snowflake Data Engineering** — Snowflake *(ETL, CI/CD, Pipelines)*
+- **Oracle Cloud Infrastructure 2025 Generative AI Certified Professional** *LLM life cycle, RAG, LangChain, fine-tuning;Vector Database, evaluation & deployment*
+- **AWS Certified Cloud Practitioner** — AWS *(IAM, EC2, S3, RDS, Lambda)*  
+- **Backend Developer** — Meta *(SQL, Django, Git, APIs)*
 - **Fundamentals: Visualization with Tableau** — UC Davis *(Dashboards, Storytelling, Data Prep)*  
 - **Visual Analytics with Tableau** — UC Davis *(Advanced Analytics, Forecasting)*  
-- **Snowflake Data Engineering** — Snowflake *(ETL, CI/CD, Pipelines)*  
-- **AWS Certified Cloud Practitioner** — AWS *(IAM, EC2, S3, RDS, Lambda)*  
-- **Backend Developer** — Meta *(SQL, Django, Git, APIs)*  
 - **Other Certifications:** [See LinkedIn →](https://www.linkedin.com/in/isuru-madushanka/details/certifications/)
 
 ---
 
 ## Connect with Me
 **Email:** isuru1234.is.madushanka@gmail.com  
-Richardson, TX, USA  
+**Location:** Dallas-Fort Worth Metroplex, Tx, USA  
 
 ---
