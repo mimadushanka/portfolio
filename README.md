@@ -7,10 +7,10 @@
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | **ML \& AI** | Keras, TensorFlow, Scikit-learn, PyTorch, Transformers, LLMs,  Tokenizers , Prompt Engineering|
-  | **Languages** | Python, R, SQL, JavaScript, HTML/CSS, Java|
-   | **Data Systems** | Snowflake,Hadoop,Spark,Data-bricks, MySQL, Oracle|
-    | **Visualization** | Tableau, Pandas, Matplotlib, Seaborn|
-   | **Cloud/Dev** | VS Code, Django, Jupyter, R Studio, AWS, Git, Docker, Kubernetes|
+| **Languages** | Python, R, SQL, JavaScript, HTML/CSS, Java|
+| **Data Systems** | Snowflake,Hadoop,Spark,Data-bricks, MySQL, Oracle|
+| **Visualization** | Tableau, Pandas, Matplotlib, Seaborn|
+| **Cloud/Dev** | VS Code, Django, Jupyter, R Studio, AWS, Git, Docker, Kubernetes|
 
 ---
 
