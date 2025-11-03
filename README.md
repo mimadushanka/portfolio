@@ -49,6 +49,8 @@ _University of Colombo, Sri Lanka_
 ### Bangalore House Price Prediction Web App    
 [Source Code](https://github.com/mimadushanka/Bangalore_House_Price_Prediction_Flask)
 
+![appdemo](BangaloreHouse.gif "bangalore House price demo")
+
 **Python | ML | Git | AWS | EC2 | Flask**  
 -Modeled, cleaned and integrated records across three desperate datasets to develop a dynamic sales dashboard.
 -tracked core KPIs, performed segmentation analysis that identified the Top 5 High-Value Customers.
