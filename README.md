@@ -101,7 +101,7 @@ _Aug 2017 – Mar 2018 | Colombo, Sri Lanka_
 ---
 
 ## Connect with Me
-**Email:** isuru1234.is.madushanka@gmail.com  
+**Email:** isurum.mu@gmail.com  
 **Location:** Dallas-Fort Worth Metroplex, Tx, USA  
 
 ---
