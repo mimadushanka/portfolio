@@ -60,9 +60,11 @@ _University of Colombo, Sri Lanka_
 ---
 
 ### Breast Cancer Detection Using CNN and Transfer Learning
-[Source Code](#)
+[Source Code]([https://github.com/mimadushanka/Bangalore_House_Price_Prediction_Flask](https://github.com/mimadushanka/BreastCancerDetectionML/blob/main/Breast%20Cancer%20Detection%20CNN.ipynb))
 
-**#**  
+-Developed and evaluated three deep learning models (CNN, enhanced CNN with batch normalization, and transfer learning with ResNet50) to classify breast ultrasound images as benign or malignant.
+-Applied image preprocessing, data augmentation, and model optimization techniques to improve generalization. 
+-Achieved over 90% validation accuracy with a custom CNN architecture, demonstrating the effectiveness of deep learning for medical image classification and cancer diagnosis support. 
 
  
 ---
